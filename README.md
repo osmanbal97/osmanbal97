@@ -1,2 +1,2 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=osmanbal97&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=8&theme=dracula&hide_border=false&cache_seconds=20&count_private=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=osmanbal97&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=6&theme=dracula&hide_border=false&cache_seconds=600&count_private=true)
 
